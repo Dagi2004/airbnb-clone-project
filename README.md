@@ -49,8 +49,8 @@ A user-friendly design is crucial in a booking system to:
 - **Enhance User Satisfaction**: Easy navigation and accessibility lead to a more enjoyable user experience.
 - **Increase Conversion Rates**: A smooth booking process encourages more users to complete their reservations.
 -  **Build Trust**: A professional and intuitive design fosters trust and encourages repeat usage.
-  
-Software Development Team Roles
+   
+Project Roles and Responsibilities
 -------------------------------
 Project Manager (PM) 
 -----------------------
