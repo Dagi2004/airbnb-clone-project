@@ -97,8 +97,8 @@ UI Component Patterns
   
 Primary Pages
 --------------
-**Property Listing View**: Displays a list of available properties with filters and search functionality.
-****Listing Detailed View**: Provides detailed information about a selected property, including images, descriptions, and user reviews.
+**Property Listing View**: Displays a list of available properties with filters and search functionality.                                
+**Listing Detailed View**: Provides detailed information about a selected property, including images, descriptions, and user reviews.
 **Simple Checkout View**: Guides the user through the booking process with clear steps and payment options.
 **Search Functionality**: A robust search feature enabling users to find properties based on criteria like location, price, and availability.
 
