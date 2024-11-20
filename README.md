@@ -54,6 +54,47 @@ Key Features
 **Detailed Views:** Offer comprehensive information about each property.
 **Simple Checkout**: Streamline the booking process for user convenience.
 
+
+UI Component Patterns
+------------------
+### 1. Navbar
+- **Description**: The Navbar will be a top navigation bar that allows users to easily access various sections of the application.
+      **Features**
+  - Logo on the left that redirects to the homepage.
+  - Links
+  - User authentication buttons (Login/Sign Up or Profile).
+    
+### 2. Property Card
+- **Description**: The Property Card will display individual properties available for booking.
+- **Features**:
+  - A featured image of the property.
+  - Property title and location.
+  - Price per night.
+  - Ratings and number of reviews.
+### 3. Footer
+- **Description**: The Footer will provide essential links and information at the bottom of the page.
+- **Features**:
+  - Links to "Terms of Service", "Privacy Policy", and "Help Center".
+  - Social media icons for platforms like Facebook, Twitter, and Instagram.
+  - A brief copyright statement and the year.
+
+### 4. Property Listing Page
+- **Description**: A dedicated page showcasing a list of properties with filtering options.
+- **Features**:
+  - Filters for price range, location, and amenities.
+  - Grid layout for property cards.
+  - Pagination controls for navigation through multiple pages of listings.
+
+### 5 .Booking Modal
+- **Description**: A modal that appears when a user chooses to book a property.
+- **Features**:
+  - Summary of the selected property.
+  - Calendar for selecting check-in and check-out dates.
+  - Input for number of guests.
+  - Confirmation button to proceed with the booking.
+
+  
+  
 Primary Pages
 --------------
 **Property Listing View**: Displays a list of available properties with filters and search functionality.
