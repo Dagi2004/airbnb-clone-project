@@ -30,6 +30,24 @@ UI/UX Design Planning
 **Aesthetic Appeal**: Use visually pleasing layouts and color schemes.
 **Accessibility**: Design for users with disabilities by following best practices.
 
+More UI/UX Design Planning
+---------------------
+**Colors:**
+1) #E9E9E9
+2) #34967C
+3) #F9F9F9
+4) #161117
+5) #F6F6F6
+6) #929292
+7) #ffffff
+8) #222222
+9) #CACACA
+
+Font Family
+---------------------
+1) Quicksand
+2)  Source Sans Pro
+
 Key Features
 -------------------
 **Property Listings**: Display properties clearly with all essential details.
